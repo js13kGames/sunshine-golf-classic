@@ -1,4 +1,7 @@
 ---
+genres:
+  - sports
+  - simulation
 directors_cut: https://killedbyapixel.github.io/Golf13K/
 video: https://youtu.be/nIiqMKTaW2M
 # See github.com/js13kGames/hello-world for supported frontmatter
